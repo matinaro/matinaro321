@@ -84,5 +84,8 @@ a
     margin-right: 1050px;
    
 }
-
+.lot1 img:hover
+{
+    flex-direction: row-reverse;
+}
 
